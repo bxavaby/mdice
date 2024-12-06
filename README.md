@@ -10,7 +10,6 @@
 
 **Mdice** is inspired by *Kakegurui Twin*. In this game, players face off a dealer in a strategic battle of dice rolls, however.. **THE DEALER ALWAYS HAS THE UPPER HAND**. 
 
----
 
 ## Table of Contents
 - [Demo](#demo)
@@ -21,20 +20,17 @@
 - [How to Play](#how-to-play)
 - [License](#license)
 
----
 
 ## Demo
 ![Mdice Demo](assets/magic.gif)  
 *✨ A walkthrough ✨*
 
----
 
 ## Features
 - **🎮 Optional loading screen**: The `-nl` flag skips the loading screen.
 - **💰 Balance status**: Persistent tracking across sessions.
 - **🎯 Probability**: The dealer picks second.
 
----
 
 ## Game Rules
 1. Starting balance of **¥100 million**.
@@ -44,7 +40,6 @@
 3. Both the player and dealer roll their dice.
 4. If the player's roll is higher, they ✅ **double their bet**; otherwise, they ❌ lose the bet amount.
 
----
 
 ## Dice Probabilities
 
@@ -58,7 +53,6 @@
 - **⚪ > ⚫** (66.7%)
 - **🔴 > ⚪** (66.7%)
 
----
 
 ## **Project Structure**
 ```plaintext
@@ -68,7 +62,6 @@
 └── mdice.py          # game logic
 ```
 
----
 
 ## **Installation and Usage**
 
@@ -90,7 +83,6 @@
    python mdice.py
    ```
    
----
 
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
