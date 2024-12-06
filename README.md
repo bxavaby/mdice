@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/bxavaby/mdice?style=flat-square)](https://github.com/bxavaby/mdice/network)
 [![GitHub stars](https://img.shields.io/github/stars/bxavaby/mdice?style=flat-square)](https://github.com/bxavaby/mdice/stargazers)
 
-** Mdice* is inspired by *Kakegurui Twin*. In this game, players face off against a dealer in a strategic battle of dice rolls, however.. **THE DEALER ALWAYS HAS THE UPPER HAND**. **
+**Mdice** is inspired by *Kakegurui Twin*. In this game, players face off against a dealer in a strategic battle of dice rolls, however.. **THE DEALER ALWAYS HAS THE UPPER HAND**. 
 
 ---
 
