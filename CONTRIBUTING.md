@@ -10,7 +10,7 @@ Thank you for considering contributing to Mdice!
 
 ## Guidelines
 
-- Fork the repository and create your branch from `master`.
+- Fork the repository and create your branch from `main`.
 - Ensure your code follows the project's coding style.
 - Write clear commit messages.
 - Update documentation as needed.
