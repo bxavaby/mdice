@@ -43,7 +43,7 @@
 
 ## Dice Probabilities
 
-#### **Each die has unique numbers, creating strategic advantages and disadvantages**
+#### **Each dice has unique numbers, creating strategic advantages and disadvantages**
 - **⚫**: `3, 3, 4, 4, 8, 8`
 - **⚪**: `1, 1, 5, 5, 9, 9`
 - **🔴**: `2, 2, 6, 6, 7, 7`
