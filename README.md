@@ -17,7 +17,7 @@
 - [Game Rules](#game-rules)
 - [Dice Probabilities](#dice-probabilities)
 - [Project Structure](#project-structure)
-- [How to Play](#how-to-play)
+- [Installation and Usage](#installation-and-usage)
 - [License](#license)
 
 
