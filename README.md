@@ -23,7 +23,7 @@
 
 ## Demo
 ![Mdice Demo](assets/magic.gif)  
-*✨ A walkthrough ✨*
+*✨ a walkthrough ✨*
 
 
 ## Features
